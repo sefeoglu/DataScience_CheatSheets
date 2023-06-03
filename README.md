@@ -1,5 +1,5 @@
-# DataScience_CheatSheets
-Data Science CheatSheets
+# DataScience Notes
+
 ## Course List
 1. [Statistical Data Analysis](SDA)
 2. [Introduction to Data Science](IntroDS)
