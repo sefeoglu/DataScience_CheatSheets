@@ -1,5 +1,5 @@
 # Data Science Notes
-
+WIP!
 ## Course List
 1. [Statistical Data Analysis](https://github.com/sefeoglu/datascience-notes/tree/master/SDA)
 2. [Introduction to Data Science](IntroDS)
